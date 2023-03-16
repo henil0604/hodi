@@ -1,7 +1,7 @@
 {
   "name": "hodi",
   "version": "1.0.0",
-  "description": "Initialize App faster",
+  "description": "Simple and configurable Project Initializer",
   "license": "MIT",
   "repository": {
     "type": "git",
